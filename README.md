@@ -1,1 +1,2 @@
 # Debugger
+Developed a master–slave embedded system using two ESP microcontrollers, where the master handled high-level control and decision-making, and the slave managed real-time sensor acquisition and actuator control. The two ESPs communicated reliably using a lightweight inter-device protocol, enabling modular design, reduced latency, and better task distribution. The architecture improved system scalability and robustness, making it suitable for robotics and IoT applications
